@@ -1,0 +1,2 @@
+Wasserstein H0 (Bray-Curtis): 0.9959295108498463
+Wasserstein H1 (Bray-Curtis): 0.037117432939299394
