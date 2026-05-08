@@ -1,0 +1,2 @@
+Wasserstein H0 (Aitchison): 68.07988780897028
+Wasserstein H1 (Aitchison): 1.5016595712606458

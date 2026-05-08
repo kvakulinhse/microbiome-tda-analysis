@@ -1,0 +1,2 @@
+Wasserstein H0: 9.005250075713174e-05
+Wasserstein H1: 3.278024821358438e-06
